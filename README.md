@@ -25,7 +25,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwyxjtu&theme=radical&layout=compact" />
 </p>
 
+![github contribution grid snake animation](https://github.com/gwyxjtu/gwyxjtu/blob/main/github-user-contribution.svg)
 
+This cute animation of my contribution grid is based on this code: https://github.com/Platane/snk
 
 - 🌱 I’m currently learning Coding, Pentest.
 - 👀 My Blog: https://gwyxjtu.github.io/
